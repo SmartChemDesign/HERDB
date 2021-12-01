@@ -6,4 +6,4 @@ The database contains information on the structures and electronic properties of
 ## Citation
 If you use this code in your research, please cite this paper [Heavy-Element Reactions Database (HERDB): Relativistic ab Initio Geometries and Energies for Actinide Compounds](https://pubs.acs.org/doi/10.1021/acs.inorgchem.0c01746)
 ## License
-[Creative Commons Attribution Share Alike 4.0 International]
+[Creative Commons Attribution Share Alike 4.0 International](https://github.com/SmartChemDesign/HERDB/blob/master/LICENSE.md)
